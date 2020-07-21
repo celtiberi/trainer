@@ -18,7 +18,7 @@
     "fft-js": "https://github.com/vail-systems/node-fft",
     "frequency-map": "^1.1.1",
     "frequency-to-midi-note-number": "^0.1.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "midi-note": "^1.0.0",
     "pitchfinder": "^2.3.1",
     "pitchy": "^2.0.0-alpha.0",
